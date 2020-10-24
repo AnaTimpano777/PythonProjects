@@ -1,0 +1,6 @@
+mouseQuantity = int(input("Enter the amount of mouse pads you would like to buy: "))
+print(" ")
+wallQuantity = int(input("Enter the amount of wall art you would like to buy: "))
+print(" ")
+magnetQuantity = int(input("Enter the amount of magnets you would like to buy: "))
+print(" ")
